@@ -40,6 +40,12 @@
 
 ---
 
+## 📊 Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=maxlevelnewbie&show_icons=true&theme=github_dark)
